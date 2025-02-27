@@ -1,7 +1,5 @@
 # Interconnect Telecom Operator
 
-## ***Machine Learning Project***
-
 ## **Description of the Problem:**
 Interconnect Telecom Operator is developing a machine learning model to forecast customer churn. Customers identified as at risk of leaving will be offered promotional codes and tailored plan options.
 
